@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CajaColores</string>
+    <string name="juego_activity">Partida</string>
+    <string name="nombre_activity">Nombre</string>
+    <string name="foto_activity">Foto</string>
+    <string name="texto2">texto2</string>
+</resources>

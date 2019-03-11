@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Puntuaciones"
+        android:icon="@drawable/puntuaciones"
+        app:showAsAction="always"
+        android:id="@+id/puntuaciones"/>
+    <item android:title="Cambiar Usuario"
+        android:icon="@drawable/icono_usuario"
+        app:showAsAction="always"
+        android:id="@+id/cambiar_usuario"/>
+
+    <item android:title="Hacer foto"
+        android:icon="@drawable/play"
+        app:showAsAction="always"
+        android:id="@+id/hacer_foto"/>
+</menu>

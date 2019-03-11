@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="grisPaloma">#afbacc</color>
+    <color name="tocado">#000000</color>
+    <color name="colorPalomo">#cd9fb0fa</color>
+    <color name="colorPollito">#1f5527</color>
+    <color name="colorGris">#bf5d5964</color>
+    <color name="colorAzul">#bf167cd0</color>
+    <color name="colorRojo">#bf975009</color>
+    <color name="colorBlanco">#ffffff</color>
+</resources>
